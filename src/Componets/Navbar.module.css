@@ -1,0 +1,14 @@
+.mainDiv{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.active{
+    text-decoration: none;
+    color: red;
+}
+.disActive{
+    text-decoration: none;
+    color:black;
+
+}
